@@ -7,32 +7,8 @@ Tutorial 6, Week 8 - Research Methods
 This repository contains the full research workflow and outputs for our study on the implications of generative AI tools. 
 
 <h2> Repository Structure </h2>
-Generative_AI_Research_49069967/
-├── literature_Review/           # Academic sources, summaries & PRISMA materials
-│   ├── sources/                 # Journal articles, books, news PDFs
-│   ├── summaries/               # Synthesis tables, annotated notes
-│   └── prisma/                  # Search strategy logs, PRISMA flowchart
-├── Quantitative_Analysis/       # Survey datasets, scripts & statistical reports
-│   ├── data/
-│   │   ├── raw/                 # Original survey data (CSV/XLSX)
-│   │   └── processed/           # Cleaned & transformed data
-│   ├── scripts/                 # Python/R analysis scripts
-│   ├── notebooks/              # Exploratory Jupyter notebooks
-│   └── reports/                # Graphs, tables, survey analysis results
-├── Qualitative_Analysis/        # Interviews, transcripts & thematic insights
-│   ├── data/
-│   │   ├── transcripts/         # De-identified interview transcripts
-│   │   └── codes/               # Codebook and thematic tags
-│   ├── protocols/               # Interview guides, consent forms
-│   ├── analysis/                # Thematic maps & coding outputs
-│   └── reports/                 # Narrative reports and visualisations
-├── Drafts_and_Reports/          # Written outputs
-│   ├── proposals/               # Project proposals and outlines
-│   ├── papers/                  # Conference-ready or working papers
-│   └── final_reports/           # Final submitted project reports
-├── Additional_Report/           # Extra material – media files, info sheets
-├── LICENSE                      # Licensing information (Apache 2.0)
-└── README.md                    # You are here!
+
+<img width="224" height="361" alt="Screenshot 2025-09-17 at 11 17 03" src="https://github.com/user-attachments/assets/8ccb17bc-87e4-4dac-aa65-864995822918" />
 
 <h2> Instructions for future collaborators </h2>
 
