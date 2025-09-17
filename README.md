@@ -2,7 +2,7 @@
 Tutorial 6, Week 8 - Research Methods
 
 
-<h1> Boon or Bane: A Comprehensive Mixed-Methods Study</h1>
+<h2><i> Boon or Bane: A Comprehensive Mixed-Methods Study </i></h2>
 
 This repository contains the full research workflow and outputs for our study on the implications of generative AI tools. 
 
